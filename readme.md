@@ -1,7 +1,7 @@
+[![MasterHead](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)]
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-[![MasterHead](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)]
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrahul19" alt="devrahul19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrahul19" alt=devrahul19" /></a> </p>
 
 - 🌱 I’m currently learning **Bulma , DSA in Java**
 
