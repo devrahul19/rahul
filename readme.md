@@ -51,8 +51,6 @@
     <div class="masterhead"></div>
     <h1>Hi 👋, I'm Rahul</h1>
     <h3>A passionate full-stack developer from India</h3>
-
-    <div class="container">
         <h3>Connect with me:</h3>
         <div class="social-links">
             <a href="https://linkedin.com/in/rahul dhiman" target="_blank">
@@ -62,7 +60,6 @@
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram">
             </a>
         </div>
-
         <h3>Languages and Tools:</h3>
         <div class="tools">
             <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
